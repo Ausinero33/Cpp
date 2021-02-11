@@ -1,0 +1,9 @@
+﻿  Esfera.cpp
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(41,10): warning C4244: 'inicializando': conversión de '_Ty' a 'int'; posible pérdida de datos
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(115,13): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(148,7): warning C4101: 'c': variable local sin referencia
+  Esfera.vcxproj -> C:\Users\gonza\source\repos\Esfera\Debug\Esfera.exe

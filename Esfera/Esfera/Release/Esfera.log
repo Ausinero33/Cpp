@@ -1,0 +1,10 @@
+﻿  Esfera.cpp
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(17,13): warning C4244: 'return': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(41,15): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(48,14): warning C4244: 'argumento': conversión de 'double' a 'DWORD'; posible pérdida de datos
+C:\Users\gonza\source\repos\Esfera\Esfera\Esfera.cpp(26,7): warning C4101: 'c': variable local sin referencia
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Esfera.vcxproj -> C:\Users\gonza\source\repos\Esfera\Release\Esfera.exe
