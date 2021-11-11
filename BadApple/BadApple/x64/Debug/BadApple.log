@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\gonza\source\repos\BadApple\BadApple\BattleElfEng.h(102,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\BattleElfEng.h(121,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\Video.h(174,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\Video.h(176,16): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(12,14): warning C4244: 'inicializando': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(12,69): warning C4244: 'inicializando': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(23,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  BadApple.vcxproj -> C:\Users\gonza\source\repos\BadApple\x64\Debug\BadApple.exe

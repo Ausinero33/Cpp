@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\gonza\source\repos\BadApple\BadApple\BattleElfEng.h(39,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\BattleElfEng.h(58,14): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(14,14): warning C4244: 'inicializando': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(14,64): warning C4244: 'inicializando': conversión de 'double' a 'short'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(57,44): warning C4244: '=': conversión de 'double' a 'unsigned short'; posible pérdida de datos
+C:\Users\gonza\source\repos\BadApple\BadApple\main.cpp(24,20): warning C4101: 'tTrans': variable local sin referencia
+  Generando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 329 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  BadApple.vcxproj -> C:\Users\gonza\source\repos\BadApple\x64\Release\BadApple.exe
